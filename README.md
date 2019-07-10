@@ -1,2 +1,4 @@
 # hello-world
-My first repository
+Hi Humans
+
+I don't like this planet that much
